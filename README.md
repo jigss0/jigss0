@@ -81,7 +81,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  
  
 <p align="center" >  
-<img  src="https://github-readme-stats.vercel.app/api?username=&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=jigss0&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
