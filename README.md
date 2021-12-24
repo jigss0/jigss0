@@ -1,3 +1,11 @@
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+</br>
+</br>
+</br>
+
 <h1 align="center">ʜɪ 👋, ɪ'ᴍ ᴊɪɢss ɪ'ᴍ ᴀ ɴᴇᴡʙɪᴇ ɪɴ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ</h1>
 <h3 align="center">ᴀ ᴘᴀssɪᴏɴᴀᴛᴇ ғʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ ɪɴᴅɪᴀ 🥀🇮🇳</h3>
 
