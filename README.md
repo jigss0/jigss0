@@ -1,88 +1,28 @@
+<h1 align="center">ʜɪ 👋, ɪ'ᴍ ᴊɪɢss ɪ'ᴍ ᴀ ɴᴇᴡʙɪᴇ ɪɴ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ</h1>
+<h3 align="center">ᴀ ᴘᴀssɪᴏɴᴀᴛᴇ ғʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ ɪɴᴅɪᴀ 🥀🇮🇳</h3>
 
-# Konichiwa 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jigss0&label=Profile%20views&color=0e75b6&style=flat" alt="jigss0" /> </p>
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigss0" alt="jigss0" /></a> </p>
 
-</br>
-</br>
-</br>
+- 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **ᴘʏᴛʜᴏɴ,ᴊᴀᴠᴀ,ʜᴛᴍʟ**
 
+- 💬 ᴀsᴋ ᴍᴇ ᴀʙᴏᴜᴛ **ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛs ᴀɴᴅ ʙᴀᴄᴋᴇɴᴅ ᴄᴏᴅᴇs**
 
-# About ME 💬 :
+- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **ᴊɪɢᴀʀᴍᴀʟɪ𝟶𝟺𝟹@ɢᴍᴀɪʟ.ᴄᴏᴍ**
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+- ⚡ ғᴜɴ ғᴀᴄᴛ **ʏᴏᴜ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴍᴇ**
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
-
-</br>
-</br>
-</br>
-
-
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_.jigss_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.jigss_._" height="30" width="40" /></a>
+<a href="https://discord.gg/JIGS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JIGS" height="30" width="40" /></a>
 </p>
-</br>
-</br>
-</br>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jigss0&show_icons=true&locale=en" alt="jigss0" /></p>
 
-# Contact Me :
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigss0&" alt="jigss0" /></p>
 
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:jigarmali043@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
- 
- 
- </br>
-</br>
-</br>
-
-
- 
- 
- 
-<p align="center" >  
-<img  src="https://github-readme-stats.vercel.app/api?username=jigss0&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-
-*************
