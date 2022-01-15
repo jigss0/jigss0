@@ -40,9 +40,3 @@ Hi there 👋
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fushinori)
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jigss0&show_icons=true&locale=en" alt="jigss0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigss0&" alt="jigss0" /></p>
-
